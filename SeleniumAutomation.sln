@@ -9,10 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCore", "CSharpCore\CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginAutomationProject", "LoginAutomationProject\LoginAutomationProject.csproj", "{FA31C8AE-396F-476A-9433-9FBD36944D80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumPOMFramework", "..\SeleniumPOMFramework\SeleniumPOMFramework.csproj", "{E8F521D7-A2E5-4A9F-81B0-6115A8B80B61}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpPrograms", "..\C#Programs\CsharpPrograms.csproj", "{8C334E5C-E9B6-4994-AD8F-AFA289ED7061}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,14 +27,6 @@ Global
 		{FA31C8AE-396F-476A-9433-9FBD36944D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA31C8AE-396F-476A-9433-9FBD36944D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA31C8AE-396F-476A-9433-9FBD36944D80}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E8F521D7-A2E5-4A9F-81B0-6115A8B80B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E8F521D7-A2E5-4A9F-81B0-6115A8B80B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E8F521D7-A2E5-4A9F-81B0-6115A8B80B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E8F521D7-A2E5-4A9F-81B0-6115A8B80B61}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8C334E5C-E9B6-4994-AD8F-AFA289ED7061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8C334E5C-E9B6-4994-AD8F-AFA289ED7061}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8C334E5C-E9B6-4994-AD8F-AFA289ED7061}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8C334E5C-E9B6-4994-AD8F-AFA289ED7061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
